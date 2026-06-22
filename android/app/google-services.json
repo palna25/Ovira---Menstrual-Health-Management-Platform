@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "862129842215",
+    "project_id": "ovira1-c8637",
+    "storage_bucket": "ovira1-c8637.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:862129842215:android:b7a4a1397495cbe78ec602",
+        "android_client_info": {
+          "package_name": "com.example.ovira1"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDiEGdrb4EGpXQ-BzYPU1OJAyTYHCPnbs8"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
